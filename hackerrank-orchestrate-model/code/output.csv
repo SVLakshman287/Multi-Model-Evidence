@@ -1,0 +1,41 @@
+claim_id,extracted_claim_damage,evidence_sufficiency,visible_issue_type,relevant_object_part,decision,supporting_image_ids,risk_flags,severity_estimate,justification
+user_002,INSUFFICIENT_INFO,INSUFFICIENT,NONE,UNKNOWN,INSUFFICIENT_INFO,[],['PROCESSING_ERROR'],NONE,Information verification omitted due to daily evaluation API quota management constraints.
+user_005,INSUFFICIENT_INFO,INSUFFICIENT,NONE,UNKNOWN,INSUFFICIENT_INFO,[],['PROCESSING_ERROR'],NONE,Information verification omitted due to daily evaluation API quota management constraints.
+user_004,INSUFFICIENT_INFO,INSUFFICIENT,NONE,UNKNOWN,INSUFFICIENT_INFO,[],['PROCESSING_ERROR'],NONE,Information verification omitted due to daily evaluation API quota management constraints.
+user_007,INSUFFICIENT_INFO,INSUFFICIENT,NONE,UNKNOWN,INSUFFICIENT_INFO,[],['PROCESSING_ERROR'],NONE,Information verification omitted due to daily evaluation API quota management constraints.
+user_008,INSUFFICIENT_INFO,INSUFFICIENT,NONE,UNKNOWN,INSUFFICIENT_INFO,[],['PROCESSING_ERROR'],NONE,Information verification omitted due to daily evaluation API quota management constraints.
+user_003,INSUFFICIENT_INFO,INSUFFICIENT,NONE,UNKNOWN,INSUFFICIENT_INFO,[],['PROCESSING_ERROR'],NONE,Information verification omitted due to daily evaluation API quota management constraints.
+user_011,INSUFFICIENT_INFO,INSUFFICIENT,NONE,UNKNOWN,INSUFFICIENT_INFO,[],['PROCESSING_ERROR'],NONE,Information verification omitted due to daily evaluation API quota management constraints.
+user_004,INSUFFICIENT_INFO,INSUFFICIENT,NONE,UNKNOWN,INSUFFICIENT_INFO,[],['PROCESSING_ERROR'],NONE,Information verification omitted due to daily evaluation API quota management constraints.
+user_018,INSUFFICIENT_INFO,INSUFFICIENT,NONE,UNKNOWN,INSUFFICIENT_INFO,[],['PROCESSING_ERROR'],NONE,Information verification omitted due to daily evaluation API quota management constraints.
+user_014,INSUFFICIENT_INFO,INSUFFICIENT,NONE,UNKNOWN,INSUFFICIENT_INFO,[],['PROCESSING_ERROR'],NONE,Information verification omitted due to daily evaluation API quota management constraints.
+user_017,INSUFFICIENT_INFO,INSUFFICIENT,NONE,UNKNOWN,INSUFFICIENT_INFO,[],['PROCESSING_ERROR'],NONE,Information verification omitted due to daily evaluation API quota management constraints.
+user_018,INSUFFICIENT_INFO,INSUFFICIENT,NONE,UNKNOWN,INSUFFICIENT_INFO,[],['PROCESSING_ERROR'],NONE,Information verification omitted due to daily evaluation API quota management constraints.
+user_019,INSUFFICIENT_INFO,INSUFFICIENT,NONE,UNKNOWN,INSUFFICIENT_INFO,[],['PROCESSING_ERROR'],NONE,Information verification omitted due to daily evaluation API quota management constraints.
+user_020,INSUFFICIENT_INFO,INSUFFICIENT,NONE,UNKNOWN,INSUFFICIENT_INFO,[],['PROCESSING_ERROR'],NONE,Information verification omitted due to daily evaluation API quota management constraints.
+user_025,INSUFFICIENT_INFO,INSUFFICIENT,NONE,UNKNOWN,INSUFFICIENT_INFO,[],['PROCESSING_ERROR'],NONE,Information verification omitted due to daily evaluation API quota management constraints.
+user_026,INSUFFICIENT_INFO,INSUFFICIENT,NONE,UNKNOWN,INSUFFICIENT_INFO,[],['PROCESSING_ERROR'],NONE,Information verification omitted due to daily evaluation API quota management constraints.
+user_027,INSUFFICIENT_INFO,INSUFFICIENT,NONE,UNKNOWN,INSUFFICIENT_INFO,[],['PROCESSING_ERROR'],NONE,Information verification omitted due to daily evaluation API quota management constraints.
+user_028,INSUFFICIENT_INFO,INSUFFICIENT,NONE,UNKNOWN,INSUFFICIENT_INFO,[],['PROCESSING_ERROR'],NONE,Information verification omitted due to daily evaluation API quota management constraints.
+user_029,INSUFFICIENT_INFO,INSUFFICIENT,NONE,UNKNOWN,INSUFFICIENT_INFO,[],['PROCESSING_ERROR'],NONE,Information verification omitted due to daily evaluation API quota management constraints.
+user_030,INSUFFICIENT_INFO,INSUFFICIENT,NONE,UNKNOWN,INSUFFICIENT_INFO,[],['PROCESSING_ERROR'],NONE,Information verification omitted due to daily evaluation API quota management constraints.
+user_031,The delivery box got wet and the label became unreadable due to water.,INSUFFICIENT,,"Box Exterior, Label",INSUFFICIENT_INFO,[],['NONE'],NONE,No images were provided to visually assess the claimed wet delivery box and unreadable label.
+user_032,The product inside the package is missing.,INSUFFICIENT,,Package contents,INSUFFICIENT_INFO,[],['NONE'],NONE,No images were provided to verify the claim that the product inside the package is missing.
+user_034,The shipping label on the package is damaged and unreadable.,INSUFFICIENT,,Shipping Label,INSUFFICIENT_INFO,[],['NONE'],NONE,No images were provided to assess the claimed damage to the shipping label.
+user_036,water damage on the delivery box,INSUFFICIENT,,Box Exterior,INSUFFICIENT_INFO,[],['NONE'],NONE,No visual evidence was provided to assess the claimed water damage on the delivery box.
+user_037,The package was crushed.,INSUFFICIENT,,Box Exterior,INSUFFICIENT_INFO,[],['QUALITY_ISSUE'],NONE,No images were provided to visually assess the claimed crushed packaging.
+user_038,"The item inside the package is broken, and the outer box looked bad.",INSUFFICIENT,,,INSUFFICIENT_INFO,[],['NONE'],NONE,No images were provided to assess the condition of the item or the package.
+user_039,A dark oily mark or oil stain on the package.,INSUFFICIENT,,package,INSUFFICIENT_INFO,[],['NONE'],NONE,No images were provided to visually assess the claimed dark oily mark on the package.
+user_040,The package was torn and the contents were missing.,INSUFFICIENT,,package,INSUFFICIENT_INFO,[],['QUALITY_ISSUE'],NONE,No images were provided to visually assess the claimed torn package or missing contents.
+user_041,The blue car's front bumper is damaged.,INSUFFICIENT,,Front Bumper,INSUFFICIENT_INFO,[],['NONE'],NONE,No images were provided to assess the claimed damage to the blue car's front bumper.
+user_042,A crack on the rear bumper of the car.,INSUFFICIENT,Crack,Rear bumper,INSUFFICIENT_INFO,[],['NONE'],NONE,No images were provided to visually assess the claimed crack on the rear bumper.
+user_043,Damage to a car body panel.,INSUFFICIENT,,Car body panel,INSUFFICIENT_INFO,[],['NONE'],NONE,No images were provided to visually assess the claimed car body damage.
+user_044,Laptop screen is broken.,INSUFFICIENT,,Laptop Screen,INSUFFICIENT_INFO,[],['NONE'],NONE,No images were provided to visually assess the claimed broken laptop screen.
+user_045,The laptop lid is cracked.,INSUFFICIENT,Crack,Laptop Lid,INSUFFICIENT_INFO,[],['NONE'],NONE,No images were provided to visually assess the claimed crack on the laptop lid.
+user_047,Left side door dented.,INSUFFICIENT,Dent,Left side door,INSUFFICIENT_INFO,[],['NONE'],NONE,No images were provided to assess the claimed damage to the left side door.
+user_046,Left side mirror is broken.,INSUFFICIENT,,Left side mirror,INSUFFICIENT_INFO,[],['NONE'],NONE,No images were provided to visually assess the claimed damage to the left side mirror.
+user_034,Crushed package/box,INSUFFICIENT,,Box Exterior,INSUFFICIENT_INFO,[],['NONE'],NONE,No images were provided to visually assess the claimed damage to the package.
+user_042,Damage on the rear bumper.,INSUFFICIENT,,Rear Bumper,INSUFFICIENT_INFO,[],['NONE'],NONE,No images were provided to visually assess the claimed damage to the rear bumper.
+user_022,Cracked laptop screen.,INSUFFICIENT,,Laptop Screen,INSUFFICIENT_INFO,[],['NONE'],NONE,No images were provided to visually assess the claimed cracked laptop screen.
+user_016,The black car door is dented.,INSUFFICIENT,,Car Door,INSUFFICIENT_INFO,[],['NONE'],NONE,No images were provided to visually assess the claimed dent on the black car door.
+user_033,The cardboard box corner is crushed.,INSUFFICIENT,Crush,Box Corner,INSUFFICIENT_INFO,[],['NONE'],NONE,No images were provided to visually assess the claimed crushed cardboard box corner.
